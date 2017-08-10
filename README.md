@@ -21,7 +21,10 @@ When  .bs  is  invoked  in our browser  it  converts  to  .S  file and  deletes 
 When  you  invoked  in  your  browser  the  security  file  .S  contents  is  displayed.
 
 
+Advantages
+===========
 
+===>  Focused  on  high security   with  encoding  and  decoding  the  text with  encryption.
   
 
 SYNTAX-1
