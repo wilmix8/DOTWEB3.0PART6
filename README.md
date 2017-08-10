@@ -2,7 +2,7 @@
 ==========
 
 
-JWEB6.0  is also   called  as  JSHIELD which  is  invented   by  wilmix  jemin  j  at  year  2017
+JWEB6.0  is also   called  as  JSHIELD which  is  invented   by  wilmix  jemin  j  in JDollar(JWEB) P.L  at  year  2017
 
 is  focused  for  high  security  with  encoding  and  decoding  the  text  with  encryption.
 
