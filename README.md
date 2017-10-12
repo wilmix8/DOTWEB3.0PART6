@@ -1,13 +1,10 @@
-# JWEB6.0
+# JSHIELD
 ==========
 
-
-JWEB6.0  is also   called  as  JSHIELD which  is  invented   by  wilmix  jemin  j  in JDollar(JWEB) P.L  at  year  2017
-
-is  focused  for  high  security  with  encoding  and  decoding  the  text  with  encryption.
+JWEBAGENTPART2 (JSHIELD)  is  invented   by  wilmix  jemin  j in  JDollar(JWEB) P.L  at  year  2017  is  focused  for  high  security  with  encoding  and  decoding  the  text  with  encryption. It is  focused  for  high  security  with  encoding  and  decoding  the  text  with  encryption.
 
 
-What  is  the  Work flow  of  JWEB6.0?
+What  is  the  Work flow  of  JSHIELD?
 ======================================
 
 When  remoteserver   compiles  .Jdollar
@@ -249,9 +246,9 @@ for (int i=armg.size()-10;i<armg.size();i++)
 
 
 
-Note:  JWEB6.0   is  focused  on  security   projects  like  school  marks  mgt,etc.
+Note:  JSHIELD  is  focused  on  security   projects  like  school  marks  mgt,etc.
 ====
-JWEB6.0   is  used  with  JDollarpart1  and JDollarpart2.
+JSHIELD  is  used  with  JDollarpart1  and JDollarpart2.
 
 
 
